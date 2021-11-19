@@ -1,0 +1,16 @@
+Suppose you are making a car racing game. Each car in your game has 2 functionalities mainly.
+------- The car can move. There are different kinds of moving behaviours, like
+    { move very slowly
+    { move like a rocket ... etc
+
+------- The car can play horn. It can also be of different types, like
+    { play boring horn
+    { play disco horn ... etc
+
+When a player starts his career in your game, he is assigned a car that can 
+    a) move very slowly 
+    b) play boring horn. 
+
+But when the player passes a certain level (or simply pays you
+some money) you will allow the car of that player to upgrade. What is your strategy behind
+implementing this game?
