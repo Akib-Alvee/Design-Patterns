@@ -1,0 +1,3 @@
+interface VillainPrototype{
+    Villain makeClone();
+}
